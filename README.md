@@ -12,9 +12,9 @@ Desde MySQL WorkBench importar la base de datos mysqlsampledatabase.sql
 
 4. Generar las sentencias SQL para mostrar las órdenes completas por cliente (crear el script .sql)
 
-     - a. Consultar las tablas por separado
-     - b. Crear los JOINS necesarios para obtener las órdenes completas por cliente
-     - c. Crear la vista con la consulta del paso previo
+     - Consultar las tablas por separado
+     - Crear los JOINS necesarios para obtener las órdenes completas por cliente
+     - Crear la vista con la consulta del paso previo
 
 5. Subir todo al repositorio y mostrar la imagen del diagrama en este README.md
 
